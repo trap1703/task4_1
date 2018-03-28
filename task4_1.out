@@ -1,0 +1,16 @@
+---Hardware---
+CPU: Intel(R) Pentium(R) CPU G3260 @ 3.30GHz
+RAM: 998244 kB
+Motherboard: 440BX Desktop Reference Platform
+System Serial Number: None
+---System---
+OS Description: Ubuntu 16.04.3 LTS
+Kernel version: 4.4.0-87-generic
+Installation date: Tue Mar 13 15:06:59 2018
+Hostname: zerro
+Uptime: 16:54:58 
+Processes running: 168
+User logged in: 1000
+--- Network ---
+<iface\#1 ens33>: 192.168.189.144/24
+<iface\#2 lo>: 127.0.0.1/8
